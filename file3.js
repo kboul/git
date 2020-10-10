@@ -1,1 +1,1 @@
-file3 content *
+const myContent = 12;
